@@ -1,12 +1,12 @@
 fun main(){
 
-    val x = 10
-    val y = 5
+    val x = 10.0
+    val y = 6.0
 
-    println("10 + 5 = "+ (x+y))
-    println("10 - 5 = " + (x-y))
-    println("10 * 5 = " + (x*y))
-    println("10 / 5 = " + (x/y))
-    println("10 % 5 = " + (x%y))
+    println((x+y))
+    println("10 - 6 = " + (x-y))
+    println("10 * 6 = " + (x*y))
+    println("10 / 6 = " + (x/y))
+    println("10 % 6 = " + (x%y))
 
 }
